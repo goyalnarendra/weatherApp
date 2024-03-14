@@ -16,7 +16,7 @@ WeatherApp is a simple web application that provides weather information based o
 
 ## How to Use
 
-1. Clone this repository to your local machine using `git clone https://github.com/your-username/WeatherApp.git`.
+1. Clone this repository to your local machine using `git clone https://github.com/goyalnarendra/weatherApp.git`.
 2. Open `index.html` in your preferred web browser.
 3. Enter the name of the city for which you want to check the weather and press Enter or click the "Get Weather" button.
 4. The application will fetch weather data from OpenWeatherMap API and display it on the screen.
@@ -27,6 +27,7 @@ This project utilizes the [OpenWeatherMap API](https://openweathermap.org/) to r
 
 ```javascript
 const apiKey = 'YOUR_API_KEY';
+```
 
 ## Acknowledgments
 -OpenWeatherMap for providing the weather data API.
